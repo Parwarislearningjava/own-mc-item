@@ -1,0 +1,21 @@
+
+modLoader="javafml"
+loaderVersion="[41,)"
+license="MIT"
+[[mods]] #mandatory
+
+modId="parwarderbossmod" #mandatory
+
+version="1.0" #mandatory
+
+displayName="parwarderbossmod" #mandatory
+
+logoFile="examplemod.png" #optional
+
+credits="me"
+
+authors="parwar"
+description='''
+Für die Version 1.19
+'''
+
